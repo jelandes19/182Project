@@ -7,4 +7,4 @@ Reuters news dataset - News with labels of type of news document
 http://disi.unitn.it/moschitti/corpora.htm - Literature genre
 https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics - 380,000 lyrics with genre 
 
-Want to include: novels with genre, medical documents, law documents, research papers, mathematical proofs 
+Want to include: novels with genre, medical documents, law documents, research papers, mathematical proofs, poems
